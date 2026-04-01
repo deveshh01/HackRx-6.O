@@ -27,7 +27,7 @@ Level 1	Baseline PDF QA (10–20 PDFs)	8%	45
 Level 2	Larger dataset + token extraction	29%	250
 Level 3	OCR + Multi-language + Context selection	38%	293
 Level 4 (Final)	Full reasoning, token solver, flight solver, Malayalam OCR	67%	694
-🎉 Final Rank Achieved: Rank 88 (out of thousands of teams)
+🎉 Final Rank Achieved: Rank 88 (out of 67 thousands of teams)
 
 Your final Level-4 engine demonstrated strong reasoning, efficient context-building, and robust policy extraction.
 
@@ -124,8 +124,9 @@ Bajaj_json/
 
 ⚙️ Installation
 1️⃣ Clone the Repository
-git clone https://github.com/Aryan9140/Bajaj_json
-cd Bajaj_json
+git clone https://github.com/deveshh01/HackRx-6.O.git
+
+
 
 2️⃣ Create Virtual Environment
 python -m venv venv
